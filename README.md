@@ -2,7 +2,7 @@
 Probably the safest way to chat!
 ## Recipe
 We used Google's miraculous Firebase to keep your data safe!
-###
-Simple open, and register. You are good to go!
+### How To Use
+Just Add your Firebase .json file and you are good to go!
 ###
 <sup><sub>Beloved Creation of Falan Böyle Company</sub></sup>
